@@ -1,0 +1,6 @@
+# MediatorModel
+planeDemo
+
+PlaneCommunication 一般的三个飞机之间的通信的实现
+
+PlaneCommunicationWithMediator 加入控制中心(中介者)后三个飞机之间的通信的实现
